@@ -1,0 +1,158 @@
+﻿"Phrases"
+{
+	"Gift tag"
+	{
+		"fr"    "{green}[VIP]{default}"
+		"en"    "{green}[VIP]{default}"
+	}
+	"Gift not allowed"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez pas accès a cette commande"
+		"en"    "{red}Error ! You don't have access to this command"
+	}
+	"Gift not alive"
+	{
+		"fr"    "{red}Erreur ! Vous êtes mort"
+		"en"    "{red}Error ! You're dead"
+	}
+	"Gift not round"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez plus de cadeau pour ce round"
+		"en"    "{red}Error ! You have no more gift for that round"
+	}
+	"Gift not map"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez plus de cadeau pour cette map"
+		"en"    "{red}Error ! You have no more gift for that map"
+	}
+	"Beacon won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}une balise (/balise + pseudo) de %i secs"
+		"en"    "Congratulation ! You won {green}a beacon (/balise + nick) of %i secs"
+	}
+	"Beacon error"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez pas de balise"
+		"en"    "{red}Error ! You don't have any beacon"
+	}
+	"Blind won"
+	{
+		"fr"    "Malheur ! Vous avez gagné un {red}semi-aveuglement pendant %i secs"
+		"en"    "Woe ! You won a {red}semi-blind during %i secs"
+	}
+	"Burn won"
+	{
+		"fr"    "Malheur ! Vous avez gagné un {red}burn de %i secs"
+		"en"    "Woe ! You won a {red}burn during %i secs"
+	}
+	"Damage won"
+	{
+		"fr"    "Bravo ! Vous avez {green}vos dégâts améliorés (x%.00f)"
+		"en"    "Congratulation ! You won {green}improved damages (x%.00f)"
+	}
+	"Damage lost"
+	{
+		"fr"    "Malheur ! Vous avez {red}vos dégâts diminués (x%.00f)"
+		"en"    "Woe ! You won {red}decreased damages (x%.00f)"
+	}
+	"Disguise won"
+	{
+		"fr"    "Malheur ! Vous avez gagné {red}un déguisement ridicule !"
+		"en"    "Woe ! You won a {red}ridiculous costume"
+	}
+	"Disguise others"
+	{
+		"fr"    "{blue}Regardez %s, il a un déguisement pourrit. Crachez lui dessus !"
+		"en"    "Look ! %s has a rotten disguise. Spit on him !"
+	}
+	"Double-jump won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}le double-saut"
+		"en"    "Congratulations ! You won {green}the double jump !"
+	}
+	"ExtraVIP won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}une journée de VIP gratuite !"
+		"en"    "Congratulation ! You won a {green} extra VIP-day !"
+	}
+	"Health won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}15 PV"
+		"en"    "Congratulation ! You won {green} 15 PV !"
+	}
+	"Health lost"
+	{
+		"fr"    "Malheur ! Vous avez perdu {red}15 HP"
+		"en"    "Woe ! You lost {green} 15 HP !"
+	}
+	"Kevlar won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}un kevlar à %i"
+		"en"    "Congratulation ! You won {green}a %i's kevlar"
+	}
+	"Medik won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}un medik (/medik pour soigner les alliés proches)"
+		"en"    "Congratulation ! You won {green}a medik (/medik to heal closest allies)"
+	}
+	"Medik not allowed"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez pas de medik"
+		"en"    "{red}Error ! You don't have any medik"
+	}
+	"Medik used"
+	{
+		"fr"    "{default}%s vous a soigné de {green}%i HP"
+		"en"    "{default}%s healed you for {green}%i HP"
+	}
+	"Nades won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}un pack de grenades"
+		"en"    "Congratulation ! You won {green}a nades pack"
+	}
+	"Nothing won"
+	{
+		"fr"    "{blue}Pas de chance, vous n'avez rien gagné ... mais ce n'est peut-être pas plus mal !"
+		"en"    "{blue}No chance, you won nothing ... but its perhaps not so worse"
+	}
+	"Primweap won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}une AWP"
+		"en"    "Congratulations ! Yon won {green}an AWP"
+	}
+	"Secweap won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}un USP"
+		"en"    "Congratulations ! Yon won {green}an USP"
+	}
+	"Speed won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}de la vitesse"
+		"en"    "Congratulations ! Yon won {green}some speed"
+	}
+	"Speed lost"
+	{
+		"fr"    "Malheur ! Vous avez perdu {red}de la vitesse"
+		"en"    "Woe ! Yon lost {red}some speed"
+	}
+	"Spy won"
+	{
+		"fr"    "Bravo ! Vous avez gagné {green}un skin espion (/spy)"
+		"en"    "Congratulation ! You won {green}a spy skin (/spy)"
+	}
+	"Spy used"
+	{
+		"fr"    "{blue}Vous êtes maintenant déguisé avec une tenue ennemie"
+		"en"    "{blue}You are now disguise with an ennemy uniform"
+	}
+	"Spy finished"
+	{
+		"fr"    "{red}Attention ! Votre camouflage a disparu"
+		"en"    "{red}Warning ! Your camouflage has disappeared"
+	}
+	"Spy not allowed"
+	{
+		"fr"    "{red}Erreur ! Vous n'avez pas de skin espion"
+		"en"    "{red}Error ! You don't have any spy skin"
+	}
+}

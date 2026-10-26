@@ -1,0 +1,13 @@
+*.smx binary
+*.bsp binary
+*.nav binary
+*.mdl binary
+*.vtx binary
+*.vvd binary
+*.phy binary
+*.vtf binary
+*.wav binary
+*.mmdb binary
+*.sp text eol=lf
+*.inc text eol=lf
+*.cfg text eol=lf
